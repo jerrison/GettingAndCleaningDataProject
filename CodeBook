@@ -1,0 +1,13 @@
+###############################################################################
+# Author: Jerrison Li
+# Date: 12.23.2015 5:34:48 PM
+# Description: Codebook
+#
+###############################################################################
+
+Variables in the "GettingAndCleaningDataProject.txt" file:
+
+1.  subject: this is the subject's ID number.
+2.  activity_label: this is the action that the subject was doing.
+3.  variable: this is the measurement variable name.
+4.  average: this is the average value of the measurement variable.
